@@ -1,0 +1,24 @@
+.pagination ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+
+}
+
+.pagination ul li{
+list-style: none;
+line-height: 45px;
+font-size: 12px;
+font-weight: 500;
+cursor: pointer;
+width: 5rem;
+}
+ul li a{
+    color: white;
+    list-style: none;
+    background-color: black;
+    border: 10px solid black;
+}
+
+
